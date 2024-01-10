@@ -12,3 +12,8 @@ for (int i = 1; i <= 10; i++)
 {
     Console.WriteLine($"{num} * {i} = \t {(num * i)}");
 }
+num = 7;
+for (int i = 1; i <= 10; i++)
+{
+    Console.WriteLine($"{num} * {i} = \t {(num * i)}");
+}
